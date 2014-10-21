@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.genesis-imdb-watchlist" name="Genesis IMDB Watchlist" version="0.1" provider-name="Mathieu Dhondt">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.genesis" />
+    <import addon="script.module.feedparser" />
+    <import addon="script.module.beautifulsoup" />
+    <import addon="script.module.requests" />
+  </requires>
+     <extension point="xbmc.python.pluginsource"
+               library="default.py">
+        <provides>video</provides>
+    </extension> <extension point="xbmc.addon.metadata">
+    <summary lang="en">Stream your IMDB watchlist movies via Genesis to your TV.</summary>
+    <description lang="en">Retrieves all movies from your public IMDB watchlist and lets you stream them via the Genesis plugin to your TV. plugin.video.genesis is required!</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email>laundro@gmail.com</email>
+    <source>https://github.com/LaundroMat/genesis.imdb.watchlist</source>
+  </extension>
+</addon>
