@@ -16,4 +16,4 @@ TODO
 ====
 
 * Make this testable (i.e. seperate XBMC specific routines from the rest)
-* ...
+* Add fanart, movie info etc.
