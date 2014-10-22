@@ -6,7 +6,7 @@ Stream movies from your public IMDB watchlist via XBMC Genesis plugin.
 Installation
 ============
 
-Download this repository as a .zip file. Delete all files except the `video.plugin.genesis-imdb-watchlist` directory from the root directory. Then either install via XBMC [in the usual way](http://kodi.wiki/view/HOW-TO:Install_an_Add-on_from_a_zip_file), or drag the `video.plugin.genesis-imdb-watchlist` folder to your XBMC addons directory (which is one folder up of your [userdata folder](http://kodi.wiki/view/Userdata)).
+[Download the zip file of the latest release](https://github.com/LaundroMat/genesis-imdb-watchlist/releases) and install it via XBMC [in the usual way](http://kodi.wiki/view/HOW-TO:Install_an_Add-on_from_a_zip_file).
 
 You need to have [plugin.video.genesis](http://addons.tvaddons.ag/show/plugin.video.genesis/) installed before you can use this plugin.
 
